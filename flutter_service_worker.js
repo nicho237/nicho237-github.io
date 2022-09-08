@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cbc53aae578e2a642eeb1fb80e583f99",
+  "assets/AssetManifest.json": "2e3383f8b9435befa8a4430e97b2b46e",
 "assets/assets/images/logo.png": "6f61009de6b430119e040b1302c480e7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "9f7a9fd89ccb0be9c8f4fae7f8591c71",
+"assets/NOTICES": "7bee5a455546f8673954699f3ac1140e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
+"assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/shaders/ink_sparkle.frag": "2a58b60a6ffe5df6343e247f3ef54482",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
@@ -20,11 +22,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b40cf10eac638955c6846d9185e6260f",
-"/": "b40cf10eac638955c6846d9185e6260f",
-"main.dart.js": "0046b452cc21225c3dba87769d6620a2",
-"manifest.json": "925b592a87f70a6b170ea29396bd6447",
-"version.json": "c1eae2b3588dfe572a3dba285c3be471"
+"index.html": "f6e0d7ec811a6ad555394244e72d69fb",
+"/": "f6e0d7ec811a6ad555394244e72d69fb",
+"main.dart.js": "932298e47d3258118c60fa44edccdf0b",
+"manifest.json": "62ad66482ba7a6a601e1a703c39cf957",
+"version.json": "3de6998f3db28291b0b466b136288e78",
+"web.zip": "b8a534b3c764846b595585e43eabcd77"
 };
 
 // The application shell files that are downloaded before a service worker can
