@@ -63583,7 +63583,7 @@ k7(){var s=0,r=A.X(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$k7=A.Y(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.Z(A.ad7(A.e6("http://careful-mouse-gradually.ngrok-free.app/get-frame",0,null)),$async$k7)
+return A.Z(A.ad7(A.e6("https://careful-mouse-gradually.ngrok-free.app/get-frame",0,null)),$async$k7)
 case 6:n=b
 if(n.b===200){k=n
 m=A.OA(J.b_(A.Op(k.e).c.a,"charset")).cH(0,k.w)
